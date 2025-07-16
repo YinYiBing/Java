@@ -31,6 +31,7 @@ public class TypeConversionDemo1 {
         byte aa = 10;
         byte bb = 20;
         int cc = aa + bb;
+        System.out.println(cc);
 
     }
 }
