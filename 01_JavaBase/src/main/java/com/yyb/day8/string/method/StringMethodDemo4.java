@@ -11,7 +11,7 @@ public class StringMethodDemo4 {
      */
     public static void main(String[] args) {
 
-        String s = "itheima";
+        String s = "yyb.day";
 
         String result = s.replace("heima", "baima");
 

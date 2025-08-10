@@ -1,6 +1,6 @@
 package com.yyb.day7.permissions;
 
-import com.itheima.a.Student;
+import com.yyb.day7.a.Student;
 
 public class PermissionsDemo {
     /*

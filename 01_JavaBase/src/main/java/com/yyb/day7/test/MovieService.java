@@ -1,6 +1,6 @@
 package com.yyb.day7.test;
 
-import com.itheima.domain.Movie;
+import com.yyb.day7.domain.Movie;
 
 import java.util.Scanner;
 

@@ -1,6 +1,6 @@
 package com.yyb.day7.test;
 
-import com.itheima.domain.Movie;
+import com.yyb.day7.domain.Movie;
 
 public class Test {
     public static void main(String[] args) {

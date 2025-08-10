@@ -18,7 +18,7 @@ public class StudentTest {
         细节:
                 1) 打印对象名, 可以看到对象的内存地址
 
-                        com.itheima.oop.Student@4eec7777
+                        com.yyb.day.oop.Student@4eec7777
                         全类名 : 包名 + 类名
 
                 2) 成员变量就算没有赋值, 也可以直接用, 使用的是对象的默认值

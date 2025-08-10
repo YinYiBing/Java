@@ -12,7 +12,7 @@ public class StringMethodDemo3 {
      */
     public static void main(String[] args) {
 
-        String s = "itheima";
+        String s = "yyb.day";
 
         String result = s.substring(0, 2);
 
@@ -21,7 +21,7 @@ public class StringMethodDemo3 {
     }
 
     private static void method() {
-        String s = "itheima";
+        String s = "yyb.day";
 
         String result = s.substring(2);
 

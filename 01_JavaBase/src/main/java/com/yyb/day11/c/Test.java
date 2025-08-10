@@ -1,6 +1,6 @@
 package com.yyb.day11.c;
 
-import com.itheima.a.Student;
+import com.yyb.day11.a.Student;
 
 public class Test {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class Test {
         stu1.eat();
 
         // 使用全类名创建对象 : 包名 + 类名
-        com.itheima.b.Student stu2 = new com.itheima.b.Student();
+        com.yyb.day11.b.Student stu2 = new com.yyb.day11.b.Student();
         stu2.sleep();
     }
 }

@@ -1,6 +1,6 @@
 package com.yyb.day11.minterface;
 
-import com.itheima.a.Inter;
+import com.yyb.day11.a.Inter;
 
 public class InterfaceTest2 {
     /*

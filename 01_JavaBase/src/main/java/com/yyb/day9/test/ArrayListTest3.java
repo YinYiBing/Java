@@ -1,6 +1,6 @@
 package com.yyb.day9.test;
 
-import com.itheima.domain.Student;
+import com.yyb.day9.domain.Student;
 
 import java.util.ArrayList;
 import java.util.Scanner;

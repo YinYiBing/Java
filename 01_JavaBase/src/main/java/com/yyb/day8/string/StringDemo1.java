@@ -1,6 +1,6 @@
 package com.yyb.day8.string;
 
-import com.itheima.domain.Student;
+import com.yyb.day8.domain.Student;
 
 public class StringDemo1 {
     /*

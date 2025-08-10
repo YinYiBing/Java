@@ -21,7 +21,7 @@ public class OperatorDemo5 {
         int x = 3;
         int y = 4;
                         // false
-        boolean result = ++x > 5 && y-- < 4;
+        boolean result = ++x > 5 & y-- < 4;
 
         System.out.println(x);          // 4
         System.out.println(y);          // 3
